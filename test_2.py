@@ -5,3 +5,4 @@ def my_print(w):
 
 if __name__ == '__main__':
     print(my_print('Friend'))
+    print('Bye!')
